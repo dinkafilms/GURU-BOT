@@ -1,5 +1,5 @@
 { 
-    "name": "GURU",
+    "name": "NADEEN POORNA",
     "version": "0.0.1",
     "description": "Customizable WhatsApp Bot",
     "main": "index.js",
@@ -19,15 +19,15 @@
         "whatsapp",
         "js-whatsapp",
         "whatsapp",
-        "guru-bot",
-        "GURU-bot-md",
+        "nadeen-bot",
+        "DINKA-bot-md",
         "multi-device",
         "MD",
         "baileys-md"
     ],
     "homepage": "https://github.com/Guru322/GURU-BOT",
     "author": {
-        "name": "GURU"
+        "name": "DINKA FILMS"
     },
     "repository": {
         "type": "git",
